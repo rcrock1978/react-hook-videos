@@ -1,2 +1,2 @@
-# react-hook-videos
+# hook-videos-sample
 Created with CodeSandbox
