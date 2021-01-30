@@ -30,6 +30,7 @@ const App = () => {
   return (
     <div className="ui container">
       <SearchBar onFormSubmit={onTermSubmit} />
+      <h1>Test</h1>
       <div className="ui grid">
         <div className="ui row">
           <div className="eleven wide column">
